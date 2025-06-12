@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm 4685186
+# Hi there, I'm c4685186
 
 I'm a student and aspiring developer with a passion for learning and exploring new technologies.
 
